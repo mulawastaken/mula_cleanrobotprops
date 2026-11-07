@@ -5,7 +5,7 @@ Lore-friendly robot vacuum and dock props for FiveM, featuring ThriftEX (GTA bra
 
 ## Previews
 
-![All props](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/prop_cleanrobot_props.png)
+![All props](https://r2.fivemanage.com/cSLjIkKVIp1MD8BFZ9U1L/cleanrobot_gallery_details.png)
 
 ## Model names and hashes
 
